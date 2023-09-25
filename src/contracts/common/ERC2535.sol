@@ -4,7 +4,6 @@ import "./DiamondCut.sol";
 import "./DiamondLoupe.sol";
 import "./OwnershipFacet.sol";
 
-
 contract Diamond {
     constructor(address _owner, DiamondCut.FacetCut[] memory _diamondCut) {
         DiamondCut.diamondCut(_diamondCut, address(0), new bytes(0));
