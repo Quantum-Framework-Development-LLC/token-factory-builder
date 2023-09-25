@@ -1,4 +1,4 @@
-pragma solidity ^0.7.1;
+pragma solidity ^0.8.19;
 
 import "./DiamondCut.sol";
 import "./DiamondLoupe.sol";
