@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/your-repo/token-factory-builder#readme",
   "dependencies": {
+    "@chainlink/contracts": "^0.7.1",
     "audit": "^0.0.6",
     "axios": "^1.5.0",
     "braces": "^3.0.2",
