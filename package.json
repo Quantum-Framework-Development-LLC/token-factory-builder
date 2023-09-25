@@ -1,0 +1,39 @@
+{
+  "name": "token-factory-builder",
+  "version": "1.0.0",
+  "description": "A tool to assist in creating a project for deploying synthetic token smart contracts, customized to your specifications.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-repo/token-factory-builder.git"
+  },
+  "keywords": [
+    "token",
+    "smart contract",
+    "blockchain",
+    "ethereum",
+    "binance smart chain",
+    "token factory",
+    "builder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-repo/token-factory-builder/issues"
+  },
+  "homepage": "https://github.com/your-repo/token-factory-builder#readme",
+  "dependencies": {
+    "aud": "^2.0.3",
+    "audit": "^0.0.6",
+    "axios": "^1.5.0",
+    "fix": "^0.0.6",
+    "github": "^14.0.0",
+    "inquirer": "^7.3.3",
+    "update": "^0.7.4",
+    "upgrade": "^1.1.0"
+  }
+}
