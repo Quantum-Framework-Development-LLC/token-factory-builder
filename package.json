@@ -27,13 +27,13 @@
   },
   "homepage": "https://github.com/your-repo/token-factory-builder#readme",
   "dependencies": {
-    "aud": "^2.0.3",
     "audit": "^0.0.6",
     "axios": "^1.5.0",
+    "braces": "^3.0.2",
     "fix": "^0.0.6",
     "github": "^14.0.0",
+    "got": "^13.0.0",
     "inquirer": "^9.2.11",
-    "update": "^0.7.4",
     "upgrade": "^1.1.0"
   }
 }
